@@ -1,0 +1,36 @@
+/*Estilo Header*/
+
+.titulo1{
+	color: blue;
+	text-align: center;
+}
+.titulo2{
+	color: green;
+	text-align: center;
+}
+
+.menu-bar2{
+	background-color: #1223C8;	
+	margin-bottom: 0;
+	/*padding: 10px;*/
+}
+
+.menu-bar{
+	background-color: #1223C8;	
+	margin-bottom: 0;
+	/*padding: 10px;*/
+}
+	.menu-bar a{
+		color: white;
+		font-size: 16px;
+		padding: 10px;	
+	}
+	.menu-bar a:hover {
+		text-decoration: none;
+		background: #FC6859;
+	}
+.menu-list{
+	padding: 20px, 100px;
+	margin-bottom: 0px;
+}
+
